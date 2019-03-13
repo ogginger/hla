@@ -1,0 +1,3 @@
+#!/bin/bash
+
+docker run -it --name hla -v /home/josh/hla/code/:/home/ hla
